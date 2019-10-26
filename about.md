@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo Vignelli. This theme lends itself well to sites heavy on written content.
+Asociación zumo de bytes es una asociación sin animo de lucro, destina a realizar actividades relacionas con la tecnología.
 
 ### Features:
 * Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
