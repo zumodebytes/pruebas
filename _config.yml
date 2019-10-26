@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: zumo de bytes
-description: A bold typographic theme inspired by Swiss design.
-baseurl: "" # the subpath of your site, e.g. /blog
+description: Asociación zumo de bytes vuelve a la carga.
+baseurl: "" # the subpatheof your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: zumodebytes # the GitHub repo name for your project
 github_username: zumodebytes
